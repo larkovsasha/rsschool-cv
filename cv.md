@@ -1,16 +1,14 @@
 # Larkov Aleksandr
 ## Contacts
-- - -
 + __E-mail__: LarkovAleksandr005@yandex.ru
 + __GitHub__: [larkovsasha](https://github.com/larkovsasha)
 + __Discord__: aleksandr (@larkovsasha)
-## Summary 
-- - -
+## Summary
 I am currently studying web programming. I'm interested in.
 My goal is to learn enough modern technologies in the front-end and get a job.
-I think your school course will help me
+I think your school course will help me.
+
 ## Skills
-- - -
 + HTML, CSS(Preprocessor SCSS, BEM methodology)
 + JavaScript (Functional Programming, OOP, ES6+,DOM), TypeScript(base level)
 + React JS, Redux, Reselect
@@ -19,7 +17,6 @@ I think your school course will help me
 + Webpack
 + Eslint
 ## Code example
-- - -
 ```
  /**
  * @param {number} start
@@ -36,6 +33,5 @@ export function range(start, end) {
 }
 ```
 ## My Projects
-- - -
 + [Excel](https://github.com/larkovsasha/excel). Application written in pure js without libs and frameworks.
 + [TwitterClone](https://github.com/larkovsasha/twitter-clone). Course by ArchakovBlog. React Redux TypeScript NodeJS.
